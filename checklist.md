@@ -230,4 +230,7 @@ Happy hunting !
 Source:  
 [OWASP](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 
+RECOMENDED CHECKLIST:  
+https://gowthams.gitbook.io/bughunter-handbook/checklists
+
 
